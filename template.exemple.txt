@@ -1,0 +1,10 @@
+Esse é um exemplo de template
+
+Vou colocar exemplos de variáveis
+
+BOT_API: $BOT_API
+SITE_BANCA: $SITE_BANCA
+
+Esses valores foram colocados no template
+
+Crie um template levando em consideração o arquivo "template.example.txt"
